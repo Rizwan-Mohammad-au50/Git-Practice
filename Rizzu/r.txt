@@ -1,2 +1,3 @@
 a new file inside rizzu folder
 Added new line for testing git pull command
+Added new line for testing git pull command again 2nd time
